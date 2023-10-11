@@ -1,2 +1,2 @@
 # python-scripts
-This repository contain fun scripts made by me to automate daily tasks.
+I am a contributing developer and this branch contains my automation scripts related to digital marketing and dynamic content generation.
