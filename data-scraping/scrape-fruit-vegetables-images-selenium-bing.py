@@ -57,4 +57,4 @@ def download_images(query, num_images=30, save_path='images'):
 
 if __name__ == '__main__':
     # Replace 'apple fruit' with your desired search query
-    download_images('spices', num_images=200)
+    download_images('turmeric powder', num_images=200)
